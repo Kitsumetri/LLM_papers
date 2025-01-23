@@ -1,4 +1,4 @@
-# Конспект статьи: [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
+# [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
 
 ## Оглавление
 1. [Абстракт](#абстракт)
